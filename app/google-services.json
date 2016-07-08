@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "451487654123",
+    "firebase_url": "https://connectfirebase-4ba09.firebaseio.com",
+    "project_id": "connectfirebase-4ba09",
+    "storage_bucket": "connectfirebase-4ba09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451487654123:android:159d3f580abe5f6c",
+        "android_client_info": {
+          "package_name": "io.flemish.connectfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451487654123-r1ulld7amjjoknm2ev3fcq5qq0jl4prh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZiJsyMGQ19KYFdZUkFYoDdtN7gljqjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
